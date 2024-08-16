@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrSnyffels
+- 👋 Hi, I’m Joel
 - 👀 I’m interested in Development,3D,Electronics,Handmade,Recycling,BioHacks
 - 🌱 I’m currently learning 3D Mapping, Python, 5 Axis CNC
 - 💞️ I’m looking to collaborate on Develpont of future Metaverse without Suckerberg
